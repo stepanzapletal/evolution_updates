@@ -19,6 +19,26 @@
       "github": "stepanzapletal",
       "initial_installation_images": [],
       "extra_images": []
+    },
+    {
+      "maintainer": "stepik",
+      "currently_maintained": true,
+      "oem": "Xiaomi",
+      "device": "Redmi 13C",
+      "filename": "EvolutionX-16.0-20250918-gale-11.2-Unofficial.zip",
+      "download": "https://deac-riga.dl.sourceforge.net/project/stepik-builds/EvolutionX-11.2/Sep%2018/EvolutionX-16.0-20250918-gale-11.2-Unofficial.zip?viasf=1",
+      "timestamp": 1758225522,
+      "md5": "249a9179ebc28339f1d7ec2fcda91285",
+      "sha256": "ad9be16924bcf72067da4ff7ebd8c20796c944d76f82b6d5eb83d39159092a55",
+      "size": 2341191542,
+      "version": "11.2",
+      "buildtype": "user",
+      "forum": "https://t.me/redmi13cofficial",
+      "firmware": "",
+      "paypal": "",
+      "github": "stepanzapletal",
+      "initial_installation_images": [],
+      "extra_images": []
     }
   ]
 }

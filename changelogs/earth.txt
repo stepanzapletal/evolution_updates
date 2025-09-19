@@ -1,11 +1,21 @@
-This is Android 16 with August 5th 2025 security patches
+Latest Changelog:
+
+This is Android 16 with September 1st 2025 security patches
+
+Differences beetween previous build:
+==============================
+- Some pixel features from QPR1 have been added, including the redesigned "Sounds" app
+- Default sound options tweaked
+- The Evolver has been improved
+- And other miscellaneous tweaks
 
 Notes:
 ==============================
 - LineageOS-based source. Signed build.
 - Always dirty flash at your own risk. If your device bootloops, revert to an older build that boots.
-- Status bar padding fixed
+- Stock kernel
+- If rooted, check your modules, because they tend to spoof secpatch
 
 Known Bugs:
 ==============================
-- None. If any report to me on Telegram
+- None. If you find any, tag me on Telegram
