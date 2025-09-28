@@ -2,7 +2,15 @@ Latest Changelog:
 
 This is Android 16 with September 1st 2025 security patches
 
-Differences beetween previous build:
+28.09.2025:
+==============================
+- Yet more QPR1 features merged
+- Various improvements (Including integrity. Should pass by default ;D)
+- The Evolver has been improved (yet again)
+- And other miscellaneous tweaks
+- Tweaked status bar padding a bit (yes, I know of the issue)
+
+19.09.2025:
 ==============================
 - Some pixel features from QPR1 have been added, including the redesigned "Sounds" app
 - Default sound options tweaked
@@ -18,4 +26,6 @@ Notes:
 
 Known Bugs:
 ==============================
+- Status bar padding is a bit off on homescreen. Tried to resolve the issue. If not fixed, will try again in the next build ;)
 - None. If you find any, tag me on Telegram
+
