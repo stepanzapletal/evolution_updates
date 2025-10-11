@@ -1,6 +1,16 @@
 Latest Changelog:
 
-This is Android 16 with September 1st 2025 security patches
+This is Android 16 with October 1st 2025 security patches
+
+11.10.2025:
+==============================
+- STATUS BAR PADDING HAS BEEN FIXED!!!!
+- Latest source sync (11.3) (10.10.2025)
+- Integrity is being funky again, due to keybox being banned :(
+- Several miscellaneous improvements
+- Changed updater to use an overlay instead of my own fork of it (yes, I am quite lazy :P)
+- QPR1 is STILL not released, so this build doesn't include full M3E
+- Recommend using stock kernel (gale is being picky with kernels, but earth is unknown. works with Americano though...)
 
 28.09.2025:
 ==============================
@@ -26,6 +36,5 @@ Notes:
 
 Known Bugs:
 ==============================
-- Status bar padding is a bit off on homescreen. Tried to resolve the issue. If not fixed, will try again in the next build ;)
 - None. If you find any, tag me on Telegram
 
