@@ -4,6 +4,8 @@ This is Android 16 with October 1st 2025 security patches
 
 18.10.2025:
 ==============================
+- Something about private space fingerprint issue being fixed? I didn't experience it, but it has been fixed for others.
+- Pixel Launcher leak FIXED!
 - Latest source sync (11.3)
 - Integrity is being funky again, due to keybox being banned. Again :(
 - Several miscellaneous improvements
