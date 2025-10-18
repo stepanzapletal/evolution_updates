@@ -2,6 +2,14 @@ Latest Changelog:
 
 This is Android 16 with October 1st 2025 security patches
 
+18.10.2025:
+==============================
+- Latest source sync (11.3)
+- Integrity is being funky again, due to keybox being banned. Again :(
+- Several miscellaneous improvements
+- QPR1 is STILL not released, so this build doesn't include full M3E. (HURRY UP GOOGLE!!!!!!)
+- This build is STILL quite picky with what kernel you use. For example some versions of ColorX didn't work for me. So I recommend using stock, or having a custom recovery on hand if it bootloops :)
+
 10.10.2025:
 ==============================
 - Latest source sync (11.3)
