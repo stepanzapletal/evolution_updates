@@ -2,6 +2,17 @@ Latest Changelog:
 
 This is Android 16 with October 1st 2025 security patches
 
+18.10.2025:
+==============================
+- New audio from QPR1 pixel added
+- Something about private space fingerprint issue being fixed? I didn't experience it, but it has been fixed for others.
+- Pixel Launcher leak FIXED!
+- Latest source sync (11.3)
+- Integrity is being funky again, due to keybox being banned. Again :(
+- Several miscellaneous improvements
+- QPR1 is STILL not released, so this build doesn't include full M3E. (HURRY UP GOOGLE!!!!!!)
+- This build is STILL quite picky with what kernel you use. For example some versions of ColorX didn't work for me on gale, so it could be similar on earth. So I recommend using stock, or having a custom recovery on hand if it bootloops :)
+
 11.10.2025:
 ==============================
 - STATUS BAR PADDING HAS BEEN FIXED!!!!

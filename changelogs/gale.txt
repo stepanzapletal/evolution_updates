@@ -2,6 +2,11 @@ Latest Changelog:
 
 This is Android 16 with October 1st 2025 security patches
 
+18.10.2025 (2):
+==============================
+- Simple update; Latest sync
+- New audio from QPR1 pixel added
+
 18.10.2025:
 ==============================
 - Something about private space fingerprint issue being fixed? I didn't experience it, but it has been fixed for others.
