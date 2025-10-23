@@ -1,0 +1,19 @@
+Latest Changelog:
+
+This is Android 16 with October 1st 2025 security patches
+
+23.10.2025:
+==============================
+- Source sync from 13.10 (test build rn)
+
+Notes:
+==============================
+- LineageOS-based source. Signed build.
+- Always dirty flash at your own risk. If your device bootloops, revert to an older build that boots.
+- Stock kernel
+
+Known Bugs:
+==============================
+- Some devices show having fingerprint scanner, even though they don't (Blossom issue)
+- Other than that, none. If you find any, tag me on Telegram
+

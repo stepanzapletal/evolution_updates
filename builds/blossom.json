@@ -1,0 +1,24 @@
+{
+  "response": [
+    {
+      "maintainer": "stepik",
+      "currently_maintained": true,
+      "oem": "Xiaomi",
+      "device": "Redmi Blossom",
+      "filename": "EvolutionX-16.0-20251023-blossom-11.3-Unofficial.zip",
+      "download": "https://example.com/example.zip",
+      "timestamp": 1761245229,
+      "md5": "e2d0ad8863aaeb8b880279d1e2e0b809",
+      "sha256": "890a677d820dbf3904ebd36d3c6f773406eb47be8f5e9c480ba9c0c8e41a6e5e",
+      "size": 1771918602,
+      "version": "11.3",
+      "buildtype": "user",
+      "forum": "https://t.me/+l9wKL_Ze6II0ZGFk",
+      "firmware": "",
+      "paypal": "",
+      "github": "stepanzapletal",
+      "initial_installation_images": [],
+      "extra_images": []
+    }
+  ]
+}
