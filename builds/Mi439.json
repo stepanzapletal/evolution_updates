@@ -1,0 +1,24 @@
+{
+  "response": [
+    {
+      "maintainer": "stepik",
+      "currently_maintained": true,
+      "oem": "Xiaomi",
+      "device": "Redmi Mi439",
+      "filename": "EvolutionX-16.0-20251030-Mi439-11.3-Unofficial.zip",
+      "download": "https://master.dl.sourceforge.net/project/stepik-builds/EvolutionX-11.3/Oct%2030/EvolutionX-16.0-20251030-Mi439-11.3-Unofficial.zip?viasf=1",
+      "timestamp": 1761838587,
+      "md5": "45ec67349fdaa9eeaaf9dbf9b03e0b72",
+      "sha256": "0590744ae58b2a2b65f1473f8126150e93659c4fa95037369e526feecf223b38",
+      "size": 1793484003,
+      "version": "11.3",
+      "buildtype": "user",
+      "forum": "https://t.me/+l9wKL_Ze6II0ZGFk",
+      "firmware": "",
+      "paypal": "",
+      "github": "stepanzapletal",
+      "initial_installation_images": [],
+      "extra_images": []
+    }
+  ]
+}

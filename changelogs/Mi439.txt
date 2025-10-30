@@ -1,0 +1,22 @@
+Latest Changelog:
+
+This is Android 16 with October 1st 2025 security patches
+
+30.10.2025:
+==============================
+- Source sync from 24.10.2025 (will be updated in the next batch of OTAs)
+- Build still has some issues, regarding fingerprint verification in private space and other parts of the system. This will be fixed in the next update for all supported devices.
+
+Notes:
+==============================
+- LineageOS-based source. Signed build.
+- GApps build; expect poor performance on 2/32 and similar lower spec devices.
+- GApps is the Pico package, thus Velvet (Google app) is not included. For proper function of the system, install the Google app from Google Play immediately after installing the ROM
+- Always dirty flash at your own risk. If your device bootloops, revert to an older build that boots.
+- Stock kernel
+- Tested on Redmi 7A (pine)
+
+Known Bugs:
+==============================
+- None! If you find any, tag me on Telegram
+
