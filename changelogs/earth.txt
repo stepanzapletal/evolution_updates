@@ -2,6 +2,12 @@ Latest Changelog:
 
 This is Android 16 with October 1st 2025 security patches
 
+31.10.2025:
+==============================
+- Latest source sync
+- Issues with fingerprint should now be fully resolved.
+- Many smaller enhancements; check out the EvoX Github page
+
 18.10.2025:
 ==============================
 - New audio from QPR1 pixel added
