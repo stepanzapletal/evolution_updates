@@ -4,6 +4,7 @@ This is Android 16 with November 1st 2025 security patches
 
 10.11.2025:
 ==============================
+- 11.4
 - Latest source sync
 - New secpatch! Update your PIFs
 - Many smaller enhancements; check out the EvoX Github page or their Discord
