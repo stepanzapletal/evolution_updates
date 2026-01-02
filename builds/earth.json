@@ -139,6 +139,26 @@
       "github": "stepanzapletal",
       "initial_installation_images": [],
       "extra_images": []
+    },
+    {
+      "maintainer": "stepik",
+      "currently_maintained": true,
+      "oem": "Xiaomi",
+      "device": "Redmi 12C",
+      "filename": "EvolutionX-16.0-20260101-earth-11.5.1-Unofficial.zip",
+      "download": "https://master.dl.sourceforge.net/project/stepik-builds/EvolutionX-11.5.1/Jan%201st/EvolutionX-16.0-20260101-earth-11.5.1-Unofficial.zip?viasf=1",
+      "timestamp": 1767259568,
+      "md5": "10aa95f0457da7950f3e87b212d0d1f9",
+      "sha256": "4d98a51fd074713aefa477a9ff2c3ff6e8082b3a8980c2ce65f546b2d8a01b1f",
+      "size": 2303603330,
+      "version": "11.5.1",
+      "buildtype": "user",
+      "forum": "https://t.me/+l9wKL_Ze6II0ZGFk",
+      "firmware": "",
+      "paypal": "",
+      "github": "stepanzapletal",
+      "initial_installation_images": [],
+      "extra_images": []
     }
   ]
 }
