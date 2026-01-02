@@ -1,6 +1,16 @@
 Latest Changelog:
 
-This is Android 16 with November 1st 2025 security patches
+This is Android 16 (QPR1 ) with December 1st 2025 security patches
+
+1.1.2026:
+==============================
+- Happy new year! 🥳
+- 11.5.1
+- QPR1!!!!!!!
+- Latest source sync
+- December secpatch (Check y'all PIFs)
+- Google Play System update system restored
+- Many updates; check EvoX Discord or TG for news
 
 10.11.2025:
 ==============================
